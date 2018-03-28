@@ -5,4 +5,7 @@
 使用技术：
 1、python3 2、selenium 3、jeiba分词
 
-备注：该软件已停止更新、维护。
+
+运行需要配置account.txt，links.txt或者video下放视频。
+
+备注：该软件已停止更新、维护，仅供学习交流。
